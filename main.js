@@ -1,0 +1,1 @@
+var resultado,exemplo=10;function funcaoDeExemplo(e){0}
